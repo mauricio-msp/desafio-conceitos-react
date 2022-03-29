@@ -26,10 +26,10 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 
 ```js
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/mauricio-msp/dtmoney.git
+git clone https://github.com/mauricio-msp/to.do.git
 
 # Entre na pasta web com 
-cd dtmoney
+cd to.do
 
 # Instale as dependências
 yarn
