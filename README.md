@@ -1,8 +1,16 @@
+# to.do (Desafio)
+
+[![author](https://img.shields.io/badge/author-mauricioporfirio-blue?style=flat-square)](https://github.com/mauricio-msp)
+[![watchers](https://img.shields.io/github/watchers/mauricio-msp/to.do?style=flat-square&color=blue)](https://github.com/mauricio-msp/to.do/watchers)
+[![stars](https://img.shields.io/github/stars/mauricio-msp/to.do?style=flat-square&color=blue)](https://github.com/mauricio-msp/to.do/stargazers)
+[![forks](https://img.shields.io/github/forks/mauricio-msp/to.do?style=flat-square&color=blue)](https://github.com/mauricio-msp/to.do/network/members)
+[![license](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+
 # :information_desk_person: Sobre to.do
 
 **to.do** é um desafio desenvolvido para treinar o que aprendi até agora no ReactJS. Projeto desenvolvido durante o treinamento do Ignite [Rocketseat](https://www.rocketseat.com.br/).
 
-Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
+O seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
 
 # :rocket: Tecnologias
