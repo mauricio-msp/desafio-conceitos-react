@@ -48,7 +48,7 @@ yarn dev
 
 # :page_with_curl: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mauricio-msp/dtmoney/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/mauricio-msp/to.do/blob/main/LICENSE) para mais detalhes.
 
 ---
 
