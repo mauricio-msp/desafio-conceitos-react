@@ -1,4 +1,4 @@
-# to.do (Desafio)
+# to.do (projeto/desafio)
 
 [![author](https://img.shields.io/badge/author-mauricioporfirio-blue?style=flat-square)](https://github.com/mauricio-msp)
 [![watchers](https://img.shields.io/github/watchers/mauricio-msp/to.do?style=flat-square&color=blue)](https://github.com/mauricio-msp/to.do/watchers)
